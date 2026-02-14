@@ -1,0 +1,17 @@
+{
+  "title": "Chapter 1",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1771112189",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/hn4vBIJ"
+      }
+    }
+  }
+}
