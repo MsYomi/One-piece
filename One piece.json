@@ -5,6 +5,14 @@
   "author": "Eiichiro Oda",
   "cover": "https://pbs.twimg.com/media/Gj9TDfNa0AANQZl?format=jpg&name=4096x4096",
   "chapters": {
+    "1": {
+      "title": "Lo Más Poderoso del Mundo",
+      "volume": "1",
+      "last_updated": "1770993000",
+      "groups": {
+        "Los Mugiwara Scans": "/storage/emulated/0/Download/Telegram/op-tomo a color 01.pdf"
+      }
+    },
     "1096": {
       "title": "Kuma-chi",
       "volume": "108",
@@ -404,15 +412,6 @@
       "groups": {
         "Los Mugiwara Scans": "/proxy/api/imgchest/chapter/wl7l5p3oo4x"
       }
-    },
-    "1": {
-      "title": "Lo Más Poderoso del Mundo",
-      "volume": "1",
-      "last_updated": "1770993000",
-      "groups": {
-        "Los Mugiwara Scans": "/storage/emulated/0/Download/Telegram/op-tomo a color 01.pdf"
-      }
-      
     }
   }
 }
