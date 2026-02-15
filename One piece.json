@@ -1,6 +1,6 @@
 {
   "title": "One Piece (ES)",
-  "description": "Traducido por: Los Mugiwara Scans",
+  "description": "Ms.Yomi",
   "artist": "Eiichiro Oda",
   "author": "Eiichiro Oda",
   "cover": "https://pbs.twimg.com/media/Gj9TDfNa0AANQZl?format=jpg&name=4096x4096",
@@ -10,7 +10,63 @@
       "volume": "1",
       "last_updated": "1771114830",
       "groups": {
-        "Los Mugiwara Scans": "/proxy/api/imgchest/chapter/qe4gp6meq4j"
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/qe4gp6meq4j"
+      }
+    },
+    "2": {
+      "title": "Luffy, el hombre del sombrero de paja",
+      "volume": "1",
+      "last_updated": "1771197122",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/n87wq5q337x"
+      }
+    },
+    "3": {
+      "title": "Zoro el cazador de piratas entra en escena",
+      "volume": "1",
+      "last_updated": "1771197336",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/bp456bn8275"
+      }
+    },
+    "4": {
+      "title": "El capitán \"Brazo de hacha Morgan\"",
+      "volume": "1",
+      "last_updated": "1771197546",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/lqyen5zqqyd"
+      }
+    },
+    "5": {
+      "title": "El rey de los piratas y el gran espadachín",
+      "volume": "1",
+      "last_updated": "1771197696",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/qb4zmvrddyj"
+      }
+    },
+    "6": {
+      "title": "El primer miembro",
+      "volume": "1",
+      "last_updated": "1771197807",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/md7o5rvw24p"
+      }
+    },
+    "7": {
+      "title": "Amigos",
+      "volume": "1",
+      "last_updated": "1771197903",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/ne7bnz3km75"
+      }
+    },
+    "8": {
+      "title": "Aparece Nami",
+      "volume": "1",
+      "last_updated": "1771197975",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/xny82k9m2yb"
       }
     },
     "1096": {
