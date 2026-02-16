@@ -149,6 +149,86 @@
         "Ms.Yomi": "/proxy/api/imgchest/chapter/m9yxdaa6k4q"
       }
     },
+    "237": {
+      "title": "En el cielo",
+      "volume": "26",
+      "last_updated": "1771235503",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/md7o5ozwa4p"
+      }
+    },
+    "238": {
+      "title": "La puerta del cielo",
+      "volume": "26",
+      "last_updated": "1771235666",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/qb4zmo6egyj"
+      }
+    },
+    "239": {
+      "title": "Angel Beach",
+      "volume": "26",
+      "last_updated": "1771235865",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/qe4gpbv5o4j"
+      }
+    },
+    "240": {
+      "title": "Energía dial",
+      "volume": "26",
+      "last_updated": "1771236550",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/9rydnbl2w4k"
+      }
+    },
+    "241": {
+      "title": "El juicio del cielo",
+      "volume": "26",
+      "last_updated": "1771236649",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/bp4569k6275"
+      }
+    },
+    "242": {
+      "title": "Criminales de 2ª clase",
+      "volume": "26",
+      "last_updated": "1771236845",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/md7o5oz5d4p"
+      }
+    },
+    "243": {
+      "title": "Pruebas",
+      "volume": "26",
+      "last_updated": "1771236982",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/5xy2n6znjyl"
+      }
+    },
+    "244": {
+      "title": "S.O.S",
+      "volume": "26",
+      "last_updated": "1771237151",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/n87wqoz8g7x"
+      }
+    },
+    "245": {
+      "title": "Aventura en la tierra de dios",
+      "volume": "26",
+      "last_updated": "1771237711",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/wl7l5bzlq4x"
+      }
+    },
+    "246": {
+      "title": "Satori, Sacerdote del bosque de la ilusión",
+      "volume": "26",
+      "last_updated": "1771237822",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/xny82jp85yb"
+      }
+    },
     "1096": {
       "title": "Kuma-chi",
       "volume": "108",
@@ -547,6 +627,14 @@
       "last_updated": "1770993000",
       "groups": {
         "Los Mugiwara Scans": "/proxy/api/imgchest/chapter/wl7l5p3oo4x"
+      }
+    },
+    "1175": {
+      "title": "1175",
+      "volume": "114",
+      "last_updated": "1771236818",
+      "groups": {
+        "Ms.Yomi": ""
       }
     }
   }
