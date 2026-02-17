@@ -1266,7 +1266,15 @@
       "volume": "39",
       "last_updated": "1771327211",
       "groups": {
-        "Ms.Yomi": "/proxy/api/imgchest/chapter/a84662nlw4x"
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/a84662nlw4x, /proxy/api/imgchest/chapter/dl7p5opdpyo"
+      }
+    },
+    "378": {
+      "title": "Reporte de daños",
+      "volume": "40",
+      "last_updated": "1771327400",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/dl7p5opdpyo"
       }
     },
     "1096": {
