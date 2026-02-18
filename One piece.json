@@ -2114,13 +2114,59 @@
       }
     },
     "482": {
-      "title": "482",
+      "title": "Amanece",
       "volume": "50",
       "last_updated": "1771414992",
       "groups": {
-        "Ms.Yomi": [
-          ""
-        ]
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/na7k568vw78"
+      }
+    },
+    "483": {
+      "title": "El final del sueño",
+      "volume": "50",
+      "last_updated": "1771439552",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/n87wq3mxq7x"
+      }
+    },
+    "484": {
+      "title": "Puni",
+      "volume": "50",
+      "last_updated": "1771439615",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/9249lr3p84n"
+      }
+    },
+    "485": {
+      "title": "Tripulación de los mugiwaras: Zoro, el cazador de piratas",
+      "volume": "50",
+      "last_updated": "1771439641",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/5xy2n9223yl"
+      }
+    },
+    "486": {
+      "title": "Piano",
+      "volume": "50",
+      "last_updated": "1771439702",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/a8466jddv4x"
+      }
+    },
+    "487": {
+      "title": "Aquella canción",
+      "volume": "50",
+      "last_updated": "1771439723",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/md7o5n8a94p"
+      }
+    },
+    "488": {
+      "title": "La canción de nuestra vida",
+      "volume": "50",
+      "last_updated": "1771439758",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/vj4jna8ee78"
       }
     },
     "1096": {
