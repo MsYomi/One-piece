@@ -69,6 +69,102 @@
         "Ms.Yomi": "/proxy/api/imgchest/chapter/xny82k9m2yb"
       }
     },
+    "91": {
+      "title": "Darts",
+      "volume": "11",
+      "last_updated": "1771781463",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/a8466va824x"
+      }
+    },
+    "92": {
+      "title": "Paraíso",
+      "volume": "11",
+      "last_updated": "1771781503",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/vj4jnrdx978"
+      }
+    },
+    "93": {
+      "title": "Hasta el fondo",
+      "volume": "11",
+      "last_updated": "1771781546",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/9rydnv5g64k"
+      }
+    },
+    "100": {
+      "title": "Comienza la leyenda",
+      "volume": "12",
+      "last_updated": "1771781181",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/dl7p5xjm3yo"
+      }
+    },
+    "101": {
+      "title": "Reverse mountain",
+      "volume": "12",
+      "last_updated": "1771781216",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/vj4jnrdb978"
+      }
+    },
+    "102": {
+      "title": "Ahora, a la Grand Line",
+      "volume": "12",
+      "last_updated": "1771781247",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/ej7mvgmoa7d"
+      }
+    },
+    "103": {
+      "title": "Ballena",
+      "volume": "12",
+      "last_updated": "1771781283",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/xny82bxjwyb"
+      }
+    },
+    "104": {
+      "title": "Promesa en el cabo",
+      "volume": "12",
+      "last_updated": "1771781302",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/m9yxdzko64q"
+      }
+    },
+    "105": {
+      "title": "Log Pose",
+      "volume": "12",
+      "last_updated": "1771781338",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/ne7bn8wmg75"
+      }
+    },
+    "106": {
+      "title": "La ciudad de bienvenida",
+      "volume": "12",
+      "last_updated": "1771781364",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/pg736z9no7r"
+      }
+    },
+    "107": {
+      "title": "Luz de luna y tumbas",
+      "volume": "12",
+      "last_updated": "1771781386",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/bp456axlv75"
+      }
+    },
+    "108": {
+      "title": "100 Cazarrecompensas",
+      "volume": "12",
+      "last_updated": "1771781411",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/wl7l5exq34x"
+      }
+    },
     "109": {
       "title": "Problema de responsabilidad",
       "volume": "13",
@@ -131,6 +227,14 @@
       "last_updated": "1771590361",
       "groups": {
         "Ms.Yomi": "/proxy/api/imgchest/chapter/xny82awapyb"
+      }
+    },
+    "117": {
+      "title": "Dorry y Brogy",
+      "volume": "13",
+      "last_updated": "1771781152",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/n87wqw62x7x"
       }
     },
     "118": {
@@ -4095,6 +4199,174 @@
       "last_updated": "1771529185",
       "groups": {
         "Ms.Yomi": "/proxy/api/imgchest/chapter/vj4jnlkd378"
+      }
+    },
+    "615": {
+      "title": "La maldición Mato-Mato",
+      "volume": "63",
+      "last_updated": "1771842076",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/a8466vx5w4x"
+      }
+    },
+    "616": {
+      "title": "Aniversario de la venganza",
+      "volume": "63",
+      "last_updated": "1771842146",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/agyvjm6r9y8"
+      }
+    },
+    "617": {
+      "title": "El impactante incidente en la colina de coral",
+      "volume": "63",
+      "last_updated": "1771842183",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/wl7l5ekop4x"
+      }
+    },
+    "619": {
+      "title": "El bosque del mar",
+      "volume": "63",
+      "last_updated": "1771842298",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/lqyen9vd3yd"
+      }
+    },
+    "620": {
+      "title": "El anhelado parque de diversiones",
+      "volume": "63",
+      "last_updated": "1771842322",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/m9yxdzv934q"
+      }
+    },
+    "621": {
+      "title": "Otohime y Tiger",
+      "volume": "63",
+      "last_updated": "1771842353",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/n87wqwvjg7x"
+      }
+    },
+    "622": {
+      "title": "Los piratas del sol",
+      "volume": "63",
+      "last_updated": "1771842386",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/vj4jnr36x78"
+      }
+    },
+    "623": {
+      "title": "El pirata Fisher Tiger",
+      "volume": "63",
+      "last_updated": "1771842415",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/a8466vxqo4x"
+      }
+    },
+    "624": {
+      "title": "Reina Otohime",
+      "volume": "63",
+      "last_updated": "1771842448",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/m9yxdzvpp4q"
+      }
+    },
+    "625": {
+      "title": "Voluntad heredada",
+      "volume": "63",
+      "last_updated": "1771842483",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/ej7mvgnga7d"
+      }
+    },
+    "626": {
+      "title": "Los tres hermanos neptuno",
+      "volume": "63",
+      "last_updated": "1771842511",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/na7k53rp378"
+      }
+    },
+    "627": {
+      "title": "En deuda",
+      "volume": "64",
+      "last_updated": "1771842586",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/9p4nk5lel4n"
+      }
+    },
+    "628": {
+      "title": "Limpieza",
+      "volume": "64",
+      "last_updated": "1771842617",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/ljyq5nd9ky2"
+      }
+    },
+    "629": {
+      "title": "Un Ex-Sichibukai se interpone en el camino",
+      "volume": "114",
+      "last_updated": "1771842652",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/xny82blxdyb"
+      }
+    },
+    "630": {
+      "title": "Respuesta agresiva",
+      "volume": "64",
+      "last_updated": "1771842686",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/9249lojaa4n"
+      }
+    },
+    "631": {
+      "title": "Plaza Gyoncorde",
+      "volume": "64",
+      "last_updated": "1771842711",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/ej7mvg2nj7d"
+      }
+    },
+    "632": {
+      "title": "Ya lo sabía",
+      "volume": "64",
+      "last_updated": "1771842770",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/o24anzkgw7l"
+      }
+    },
+    "633": {
+      "title": "¿Amigo o enemigo?",
+      "volume": "64",
+      "last_updated": "1771842805",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/5xy2nwll8yl"
+      }
+    },
+    "634": {
+      "title": "100.000 vs 10",
+      "volume": "64",
+      "last_updated": "1771842851",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/qe4gporrb4j"
+      }
+    },
+    "635": {
+      "title": "Tan grotesco que puede volar",
+      "volume": "64",
+      "last_updated": "1771842882",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/9rydnvpxd4k"
+      }
+    },
+    "636": {
+      "title": "El general de la tierra del futuro",
+      "volume": "64",
+      "last_updated": "1771842924",
+      "groups": {
+        "Ms.Yomi": "/proxy/api/imgchest/chapter/xny82blvpyb"
       }
     },
     "1096": {
